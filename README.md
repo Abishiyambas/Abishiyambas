@@ -8,7 +8,7 @@
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://www.linkedin.com/in/abishiyam-baskaran-8441a2221/)
 
 ---
 
