@@ -1,6 +1,6 @@
 # Hi, I'm Abishiyam Baskaran 😁
 
-🎓 I'm a Software Engineering student at SDU in Odense, Denmark.  
+🎓 Software Engineering student at SDU (University of Southern Denmark) in Odense, Denmark.  
 💻 I enjoy building both web and desktop applications and I'm always eager to learn new technologies and improve my development skills.  
 ⚙️ I have experience with .NET, C#, Avalonia, PHP (Laravel), JavaScript, HTML, CSS, PostgreSQL, MongoDB, Docker, Kubernetes, and Linux scripting.
 
