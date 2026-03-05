@@ -1,14 +1,14 @@
-# Hey, I'm Abishiyam Baskaran 👋
+# Hi, I'm Abishiyam Baskaran 👋
 
-🎓 Software Engineering student at SDU in Odense, Denmark.  
-💡 Passionate about building practical software solutions, both desktop and web-based.  
-🛠️ I enjoy working with modern technologies and constantly improving my development skills.
+🎓 I'm a Software Engineering student at SDU in Odense, Denmark.
 
-Currently working with technologies such as C#, PHP (Laravel), JavaScript, HTML, CSS, PostgreSQL, MongoDB, Docker, Kubernetes, and Linux scripting.
+💻 I enjoy building both web applications and desktop applications, and I’m always interested in learning new technologies and improving my development skills.
+
+⚙️ I have experience working with technologies such as .NET, C#, Avalonia, PHP (Laravel), JavaScript, HTML, CSS, PostgreSQL, MongoDB, Docker, Kubernetes, and Linux scripting.
 
 ---
 
-## 🌍 Connect with me
+## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com)
 
@@ -16,15 +16,19 @@ Currently working with technologies such as C#, PHP (Laravel), JavaScript, HTML,
 
 ## 🧰 Tech Stack
 
-### Development
+### Backend & Desktop Development
+![.NET](https://img.shields.io/badge/.NET-purple)
 ![C#](https://img.shields.io/badge/C%23-green)
+![Avalonia](https://img.shields.io/badge/Avalonia-blue)
 ![PHP](https://img.shields.io/badge/PHP-purple)
 ![Laravel](https://img.shields.io/badge/Laravel-red)
+
+### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![HTML5](https://img.shields.io/badge/HTML5-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-blue)
 
-### Databases & Infrastructure
+### Database & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
 ![Docker](https://img.shields.io/badge/Docker-blue)
