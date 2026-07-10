@@ -60,22 +60,4 @@ I'm passionate about building modern software solutions ranging from desktop app
 
 ---
 
-# 📌 Featured Projects
 
-- 🖥️ PIM Desktop Application (.NET + Avalonia + PostgreSQL)
-- 🍺 BeerHub Production System (.NET + OPC UA + Laravel)
-- 🚆 Railway Crossing Cyber-Physical System (SysML + UPPAAL)
-- 🌐 Laravel CRUD Web Applications
-- 📱 QR Code WiFi Generator (Python)
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abishiyam&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abishiyam&layout=compact&theme=tokyonight)
-
----
-
-⭐ Feel free to explore my repositories and connect with me on LinkedIn!
