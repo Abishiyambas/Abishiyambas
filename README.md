@@ -47,17 +47,3 @@ I'm passionate about building modern software solutions ranging from desktop app
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-# 🚀 Currently Learning
-
-- ASP.NET Core
-- REST API Development
-- Kubernetes
-- Software Architecture
-- Cloud Computing
-
----
-
-
