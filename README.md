@@ -1,4 +1,4 @@
-# Hi, I'm Abishiyam Baskaran 👋 test
+# Hi, I'm Abishiyam Baskaran 👋
 
 🎓 Software Engineering student at the **University of Southern Denmark (SDU)** in Odense, Denmark.
 
